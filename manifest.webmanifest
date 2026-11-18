@@ -1,0 +1,14 @@
+{
+  "name": "墨卷群英 · 三国水墨抽卡",
+  "short_name": "墨卷群英",
+  "description": "免费三国武将抽卡小游戏：70 位水墨名将、升星缘分、演武对战，纯免费无内购。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0a06",
+  "theme_color": "#171006",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
